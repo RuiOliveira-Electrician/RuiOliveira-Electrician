@@ -25,9 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rui-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rui-tech" height="30" width="40" /></a>
 <a href="https://instagram.com/rui_oliveira_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rui_oliveira_tech" height="30" width="40" /></a>
-<a href="https://www.rui-oliveira.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rui-tech" height="30" width="40" /></a>
-[<img align="left" alt="rui-oliveira.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-</p>
+<a href="https://www.rui-oliveira.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="rui-tech" height="30" width="40" /></a>
 
 
 
