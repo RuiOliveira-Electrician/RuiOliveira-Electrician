@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rui Oliveira</h1>
+<h1 align="center">Hi 👋, I'm Rui Oliveira</h1>[website]
 <h3 align="center">An industrial electrician with 5+ years experience looking for job opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rui-oliveira-tech&label=Profile%20views&color=0e75b6&style=flat" alt="rui-oliveira-tech" /> </p>
@@ -25,7 +25,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/rui-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rui-tech" height="30" width="40" /></a>
 <a href="https://instagram.com/rui_oliveira_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rui_oliveira_tech" height="30" width="40" /></a>
-[<img align="left" alt="melquip.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<a href="https://www.rui-oliveira.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rui-tech" height="30" width="40" /></a>
+[<img align="left" alt="rui-oliveira.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 </p>
 
 
