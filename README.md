@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rui-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rui-tech" height="30" width="40" /></a>
-<a href="https://instagram.com/rui_oliveira_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rui_oliveira_tech" height="30" width="40" /></a>
-<a href="https://www.rui-oliveira.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="rui-tech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rui-tech" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rui-tech" height="30" width="40" /></a>
+<a href="https://instagram.com/rui_oliveira_tech" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rui_oliveira_tech" height="30" width="40" /></a>
+<a href="https://www.rui-oliveira.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="rui-tech" height="30" width="40" /></a>
 
 
 
