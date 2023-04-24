@@ -59,11 +59,11 @@
     </summary>
     <p>
         &nbsp;
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rui-oliveira-tech&show_icons=true&locale=en" alt="rui-oliveira-tech" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rui-oliveira-tech&" alt="rui-oliveira-tech" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuiOliveira-Electrician&show_icons=true&locale=en" alt="RuiOliveira-Electrician" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RuiOliveira-Electrician&" alt="RuiOliveira-Electrician" />
     </p>
 </details>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=rui-oliveira-tech&label=Profile%20views&color=0e75b6&style=flat" alt="rui-oliveira-tech" /> 
+    <img src="https://komarev.com/ghpvc/?username=RuiOliveira-Electrician&label=Profile%20views&color=0e75b6&style=flat" alt="RuiOliveira-Electrician" /> 
 </p>
